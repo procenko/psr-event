@@ -1,7 +1,7 @@
 {
     "name": "procenko/psr-event",
     "description": "Proposal psr-event",
-    "license": "GNUv3",
+    "license": "MIT",
     "authors": [
         {
             "name": "Procenko",
