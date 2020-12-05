@@ -1,0 +1,17 @@
+{
+    "name": "procenko/psr-event",
+    "description": "Proposal psr-event",
+    "license": "GNUv3",
+    "authors": [
+        {
+            "name": "Procenko",
+            "email": "procenko.alexandr@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "\\Procenko\\PEvent": "src/"
+        }
+    },
+    "require": {}
+}
